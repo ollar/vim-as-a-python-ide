@@ -207,3 +207,6 @@
 " mkdir -p ~/.vim/ftplugin
 " wget -O ~/.vim/ftplugin/python_editing.vim http://www.vim.org/scripts/download_script.php?src_id=5492
 "" set nofoldenable
+
+" Same, but also show tabs and trailing spaces.
+"" :set list listchars=tab:»-,trail:·,eol:¶,extends:>,precedes:<
